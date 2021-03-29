@@ -1,1 +1,2 @@
-# Mail_api
+Flask_mail
+SMTP
